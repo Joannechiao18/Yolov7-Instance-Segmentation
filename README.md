@@ -8,7 +8,7 @@ This is a instance segmentation project from scratch using the pretrained offici
 # Results
 
 1. Images
-![yolov7](https://user-images.githubusercontent.com/84509949/196133709-713959c1-59ab-4962-bb95-6ced57df031d.jpg) ![Picture2](https://user-images.githubusercontent.com/84509949/196133661-aa0ebca0-bf6e-46a3-b42d-ef2099a1cf47.png)
+<img src="[image1.png](https://user-images.githubusercontent.com/84509949/196133709-713959c1-59ab-4962-bb95-6ced57df031d.jpg)" width="425"/> <img src="image2.png" width="425"/> 
 
 2. Videos
 
