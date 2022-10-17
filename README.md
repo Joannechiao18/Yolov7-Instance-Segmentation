@@ -10,7 +10,6 @@ This is a instance segmentation project from scratch using the pretrained offici
 https://user-images.githubusercontent.com/84509949/196132840-f5430078-e5ca-4528-ae84-da9f3896e6e7.mp4
 
 2. Videos
-![yolov7](https://user-images.githubusercontent.com/84509949/196132901-498e9f84-4a66-4d33-a8cd-888ff9a56181.jpg)
 
 3. Webcams
 
