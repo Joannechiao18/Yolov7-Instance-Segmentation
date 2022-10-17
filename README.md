@@ -23,10 +23,11 @@ This is a instance segmentation project from scratch using the pretrained offici
   journal={arXiv preprint arXiv:2207.02696},
   year={2022}
 }
+
 ```
 
 # Acknowledgements
 
 <details><summary> <b>Expand</b> </summary>
-
+https://github.com/WongKinYiu/yolov7
 </details>
