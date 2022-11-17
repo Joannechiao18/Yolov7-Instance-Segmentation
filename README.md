@@ -4,58 +4,27 @@
 
 This is a instance segmentation project from scratch using the pretrained official Yolov7 model. 
 
-### Dependencies
-## Usage: pip install -r requirements.txt
+# Introductuion
 
-# Base ----------------------------------------
-matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.1.1
-Pillow>=7.1.2
-PyYAML>=5.3.1
-requests>=2.23.0
-scipy>=1.4.1
-tqdm>=4.41.0
-protobuf<4.21.3
+The project support performing stance segmentation for the following applications: ***Images***, ***Videos***, ***Webcams***. In addition, some of the attributes of the bounding boxes are customizable, including ***thinkness***, ***class color***,***labels***,***fps settings***. 
 
-# Logging -------------------------------------
-tensorboard>=2.4.1
-# wandb
-
-# Plotting ------------------------------------
-pandas>=1.1.4
-seaborn>=0.11.0
-
-# Export --------------------------------------
-# coremltools>=4.1  # CoreML export
-# onnx>=1.9.0  # ONNX export
-# onnx-simplifier>=0.3.6  # ONNX simplifier
-# scikit-learn==0.19.2  # CoreML quantization
-# tensorflow>=2.4.1  # TFLite export
-# tensorflowjs>=3.9.0  # TF.js export
-# openvino-dev  # OpenVINO export
-
-# Extras --------------------------------------
-ipython  # interactive notebook
-psutil  # system utilization
-thop  # FLOPs computation
-# albumentations>=1.0.3
-# pycocotools>=2.0  # COCO mAP
-# roboflow
-
-
-# New Features
-1. Application: Images, Videos, Webcams.
-2. Customized bounding boxes/thinkness/class color/labels/fps settings.
-
-# Results
+# Visual Results
 
 1. Images
-<img src="https://user-images.githubusercontent.com/84509949/196133709-713959c1-59ab-4962-bb95-6ced57df031d.jpg" width="425"/> <img src="image2.png" width="425"/> 
+<p align="center">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/84509949/201937803-c449d9f1-b8f9-405c-97f4-6d37d0a00c35.jpg" />
+  </a>
+</p>
 
 2. Videos
 
 3. Webcams
+
+
+# Usage: 
+Install the required packages with`pip install -r requirements.txt`. 
+
 
 # Citation
 
