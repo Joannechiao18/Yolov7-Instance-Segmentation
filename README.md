@@ -1,6 +1,5 @@
 # Yolov7-Instance-Segmentation
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 This is a instance segmentation project from scratch using the pretrained official Yolov7 model. 
 
