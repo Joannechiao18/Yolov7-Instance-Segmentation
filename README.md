@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/python-3.8-orange)
 
-## 🏚️ Introductuion
+## Introductuion
 
 This is a instance segmentation project from scratch using the pretrained official Yolov7 model. The project support performing stance segmentation for the following applications: ***Images***, ***Videos***, ***Webcams***. In addition, some of the attributes of the bounding boxes are customizable, including ***thinkness***, ***class color***,***labels***,***fps settings***. 
 
-## 🌟 Visual Results
+## Visual Results
 
 <p align="center">
   <a href="#">
