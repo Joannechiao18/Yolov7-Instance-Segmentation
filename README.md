@@ -17,7 +17,7 @@ This is a instance segmentation project from scratch using the pretrained offici
 
 2. Videos
 
-<video src="https://user-images.githubusercontent.com/84509949/202367123-e8fb4cdc-d123-4f45-ad74-7e28715bc465.mp4"></video>
+https://user-images.githubusercontent.com/84509949/202367123-e8fb4cdc-d123-4f45-ad74-7e28715bc465.mp4
 
 
 
