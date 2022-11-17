@@ -19,8 +19,11 @@ https://user-images.githubusercontent.com/84509949/202367123-e8fb4cdc-d123-4f45-
 
 
 # Usage: 
-Install the required packages with`pip install -r requirements.txt`. 
-
+1. Create a conda environment.
+2. Download `Detectron2` from [here](https://github.com/facebookresearch/detectron2) and install it to the new environment with `pip install -e` using Anaconda prompt. 
+3. Install the required packages with`pip install -r requirements.txt` using Anaconda prompt as well. 
+4. `cd` to `yolov7-mask` and run `segment.py` with pretrained weight `yolov7-mask.pt` (you can train your own model by running `train.py`). 
+5. `cd` to `runs` directory and see your results.
 
 # Citation
 
