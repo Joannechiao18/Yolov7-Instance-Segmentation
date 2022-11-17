@@ -17,8 +17,8 @@ This is a instance segmentation project from scratch using the pretrained offici
 
 2. Videos
 
+<video src="[https://user-images.githubusercontent.com/aaa.mp4](https://user-images.githubusercontent.com/84509949/202365724-efb73410-a92a-4511-98f7-4a67457a73e4.mp4)"></video>
 
-https://user-images.githubusercontent.com/84509949/202365724-efb73410-a92a-4511-98f7-4a67457a73e4.mp4
 
 
 3. Webcams
