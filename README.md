@@ -11,7 +11,7 @@ This is a instance segmentation project from scratch using the pretrained offici
 1. Images
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/84509949/202364037-17101803-603b-46a1-849f-7d99133b5e3f.jpg" />
+    <img src="https://user-images.githubusercontent.com/84509949/202364037-17101803-603b-46a1-849f-7d99133b5e3f.jpg" width="200" height="150" />
   </a>
 </p>
 
