@@ -10,13 +10,9 @@ This is a instance segmentation project from scratch using the pretrained offici
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/84509949/202364037-17101803-603b-46a1-849f-7d99133b5e3f.jpg" width="250" height="200" />
+    <img src="https://user-images.githubusercontent.com/84509949/202364037-17101803-603b-46a1-849f-7d99133b5e3f.jpg" width="350" height="300" />
   </a>
 </p>
-
-
-https://user-images.githubusercontent.com/84509949/202367123-e8fb4cdc-d123-4f45-ad74-7e28715bc465.mp4
-
 
 ## 🔨 Usage: 
 1. Create a conda environment.
