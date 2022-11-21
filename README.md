@@ -36,5 +36,5 @@ This is a instance segmentation project from scratch using the pretrained offici
 ## Acknowledgements
 
 <details><summary> <b>Expand</b> </summary>
-https://github.com/OpenRefine/OpenRefine
+https://github.com/WongKinYiu/yolov7
 </details>
